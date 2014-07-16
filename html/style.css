@@ -1,8 +1,0 @@
-@charset "utf-8";
-body{margin:20px 0px 20px 0px;padding:0px;background:;color:;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
-
-/* scrollpaginationdemo */
-#scrollpaginationdemo{width:600px;margin:0px auto;}
-#scrollpaginationdemo ul{list-style:none;width:100%;margin:0px auto;padding:0px;}
-#scrollpaginationdemo ul li{margin:10px 0px;width:100%;background:#352828;padding:5px 10px;border-radius: 15px;text-shadow: 2px 1px -1px #000000;}
-.loading{background:;color:;font-size:20px;padding:5px 10px;text-align:center;width:450px;margin:0px auto;display:none;border-radius: 5px;}
